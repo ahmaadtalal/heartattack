@@ -1,0 +1,9 @@
+/* global.css */
+html, body {
+  margin: 0;
+  padding: 0;
+  min-height: 100%;
+  overflow-x: hidden; /* prevent horizontal scroll */
+  overflow-y: auto;   /* enable vertical scroll */
+  font-family: sans-serif;
+}
